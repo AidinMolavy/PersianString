@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8528A361-1100-63A4-1851-C199C9A15FCA}") = "Persian_String", "Assembly-CSharp-vs.csproj", "{BE910500-930F-85A8-499D-23E1AE61132E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE910500-930F-85A8-499D-23E1AE61132E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE910500-930F-85A8-499D-23E1AE61132E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE910500-930F-85A8-499D-23E1AE61132E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE910500-930F-85A8-499D-23E1AE61132E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																											GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.Text = 
+		$1.inheritsSet = Apache2License
+		$0.VersionControlPolicy = $2
+		$2.inheritsSet = Mono
+		$0.ChangeLogPolicy = $3
+		$3.UpdateMode = None
+		$3.MessageStyle = $4
+		$4.LineAlign = 0
+		$3.inheritsSet = Mono
+	EndGlobalSection
+
+EndGlobal

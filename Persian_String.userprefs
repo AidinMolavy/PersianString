@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Script\persian_string.cs">
+    <Files>
+      <File FileName="Assets\_Script\DuckCall.cs" Line="26" Column="1" />
+      <File FileName="Assets\_Script\persian_string.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\test.cs" Line="48" Column="48" />
+      <File FileName="Assets\_Script\Duck.cs" Line="10" Column="2" />
+      <File FileName="Assets\_Script\FlyBehavior.cs" Line="4" Column="30" />
+      <File FileName="Assets\_Script\FlyWithWings.cs" Line="4" Column="54" />
+      <File FileName="Assets\_Script\FlyNoWay.cs" Line="4" Column="38" />
+      <File FileName="Assets\_Script\QuackBehavior.cs" Line="4" Column="31" />
+      <File FileName="Assets\_Script\Quack.cs" Line="4" Column="36" />
+      <File FileName="Assets\_Script\Squeak.cs" Line="4" Column="37" />
+      <File FileName="Assets\_Script\MuteQuack.cs" Line="4" Column="40" />
+      <File FileName="Assets\_Script\MiniDuckSimulator.cs" Line="12" Column="3" />
+      <File FileName="Assets\_Script\MallardDuck.cs" Line="4" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="aidin" Email="aidinmolavy@gmial.com" Copyright="aidin company" />
+</Properties>
